@@ -28,6 +28,10 @@ LANGUAGE ~English~
 LANGUAGE ~Russian~
  ~russian~
  ~TS_Sime/translations/russian/setup.tra~
+ 
+LANGUAGE ~Chinese~
+ ~schinese~
+ ~TS_Sime/translations/schinese/setup.tra~
 
 BEGIN ~Vlad's Sime NPC~
 DESIGNATED 0 LABEL ~TS-Sime_MainComponent~
